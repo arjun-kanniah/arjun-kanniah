@@ -19,4 +19,9 @@ engineering, quality and program management.
 - **Engineering leadership:** reference architectures and deployment blueprints adopted
   across teams, release-quality gates, and mentoring engineers
 
+### Featured work
+| Project | What it shows |
+|---|---|
+| [**DocPilot**](https://github.com/arjun-kanniah/docpilot) | Ask questions about your documents and get streamed answers with page citations. FastAPI, PostgreSQL + pgvector, React + TypeScript. Claude and Gemini behind one provider interface, chosen per request. An evaluation set with an LLM grader measures correctness and whether it declines when the documents don't have the answer; retrieval quality is checked in CI. |
+
 [LinkedIn](https://www.linkedin.com/in/arjun-kanniah/)
