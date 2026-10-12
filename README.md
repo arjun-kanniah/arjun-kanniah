@@ -22,6 +22,6 @@ engineering, quality and program management.
 ### Featured work
 | Project | What it shows |
 |---|---|
-| [**DocPilot**](https://github.com/arjun-kanniah/docpilot)<br>[Live demo](https://docpilot-pjdlxrzqoq-ul.a.run.app) | Ask questions about your documents and get streamed answers with page citations. FastAPI, PostgreSQL + pgvector, React + TypeScript. Claude, OpenAI and Gemini behind one provider interface, chosen per request. An evaluation set with an LLM grader measures correctness and whether it declines when the documents don't have the answer; retrieval quality is checked in CI. Deployed to Cloud Run with Terraform and GitHub Actions. |
+| [**DocPilot**](https://github.com/arjun-kanniah/docpilot)<br>[Live demo](https://docpilot.arjunkanniah.dev) | Ask questions about your documents and get streamed answers with page citations. FastAPI, PostgreSQL + pgvector, React + TypeScript. Claude, OpenAI and Gemini behind one provider interface, chosen per request. An evaluation set with an LLM grader measures correctness and whether it declines when the documents don't have the answer; retrieval quality is checked in CI. Deployed to Cloud Run with Terraform and GitHub Actions. |
 
 [LinkedIn](https://www.linkedin.com/in/arjun-kanniah/)
