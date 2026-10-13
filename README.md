@@ -23,5 +23,6 @@ engineering, quality and program management.
 | Project | What it shows |
 |---|---|
 | [**DocPilot**](https://github.com/arjun-kanniah/docpilot)<br>[Live demo](https://docpilot.arjunkanniah.dev) | Ask questions about your documents and get streamed answers with page citations. FastAPI, PostgreSQL + pgvector, React + TypeScript. Claude, OpenAI and Gemini behind one provider interface, chosen per request. An evaluation set with an LLM grader measures correctness and whether it declines when the documents don't have the answer; retrieval quality is checked in CI. Deployed to Cloud Run with Terraform and GitHub Actions. |
+| [**cloudrun-blueprint**](https://github.com/arjun-kanniah/cloudrun-blueprint) | Terraform modules and a reusable GitHub Actions workflow for running apps on Cloud Run. Deploys use Workload Identity Federation (no key files), each app reads only its own secrets, and migrations run before every rollout. Includes a budget alert and a streaming custom domain through a Cloudflare Worker. Tested with `terraform test` against mocked providers. DocPilot is built on it. |
 
 [LinkedIn](https://www.linkedin.com/in/arjun-kanniah/)
