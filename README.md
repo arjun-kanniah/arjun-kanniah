@@ -1,12 +1,13 @@
 # Arjun Kanniah
 
-**Solutions architect and hands-on engineer.** I design GenAI and cloud platforms and build
-them through to production: the application, the infrastructure, and the security and
-release practices that keep them running.
+**Solutions architect and hands-on engineer.** I build GenAI systems that hold up in
+production: retrieval and agents with evaluations that show they work, on cloud
+infrastructure that's secure, automated and cheap to run.
 
 **13+ years** across DevOps, platform engineering and software quality, from enterprise
 release management for 15 product teams to architecting GenAI platforms adopted across
-engineering, quality and program management.
+engineering, quality and program management. That work lives in private company
+repositories; the projects below are built from scratch in public to show how I work.
 
 ### What I work on
 - **GenAI systems:** retrieval-augmented generation, multi-agent workflows (LangChain, CrewAI,
